@@ -1,0 +1,230 @@
+body {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	background-color: #005883;
+}
+
+#fondo1 {
+	background-image: url(../images/Fondo.jpg);
+}
+#fondo2 {
+	background-image: url(../images/Fondo%20menu.png);
+	height: 777px;
+}
+.botones {
+	background-color: hsla(0,0%,0%,0.50);
+	color: #FFFFFF;
+	padding-left: 3%;
+	padding-right: 3%;
+	border-color: #FFFFFF;
+	width: 260px;
+	margin-bottom: 50px;
+	height: 40px;
+	padding-bottom: 3%;
+}
+.botones_v2 {
+	background-color: hsla(0,0%,0%,0.50);
+	color: #FFFFFF;
+	padding-left: 3%;
+	padding-right: 3%;
+	border-color: #FFFFFF;
+	width: 260px;
+	margin-bottom: 50px;
+	height: 50px;
+	padding-bottom: 3%;
+	font-size: 11px;
+}
+.botones_v2:hover {
+	background-color: hsla(0,0%,0%,0.50);
+	color: #E69555;
+	padding-left: 3%;
+	padding-right: 3%;
+	border-color: #E69555;
+	width: 260px;
+	margin-bottom: 50px;
+	height: 50px;
+	padding-bottom: 3%;
+	font-size: 11px;
+}
+.botones_v3 {
+	background-color: #e8d320;
+	color: #7A4D11;
+	padding-left: 3%;
+	padding-right: 3%;
+	border-color: #FFFFFF;
+	width: 90px;
+	margin-bottom: 50px;
+	height: 30px;
+	padding-bottom: 3%;
+	font-size: 11px;
+	margin-top: 15px;
+	font-weight: bold;
+}
+#espacio_cont {
+	margin-top: 130px;
+}
+@media (min-width: 992px) {
+#espacio_cont {
+	margin-top: 165px;
+}
+}
+
+.fondo_header {
+	background-image: url(../images/heather%20%5B349563%5D.png);
+}
+#fondo_naranja {
+	background-image: url(../images/fnaranja%20%5B349558%5D.png);
+	background-repeat: no-repeat;
+	background-position: 7% 0%;
+	color: #7A4D11;
+	text-align: center;
+}
+#detalle_logo {
+	margin-top: 50px;
+	height: 100px;
+}
+
+.texto_logo {
+	color: #FFFFFF;
+	font-size: 10px;
+	text-align: center;
+}
+.fondo_contenedor_n {
+	background-image: url(../images/naranja%20%5B309367%5D.png);
+	height: 100px;
+}
+.cuadro_txt {
+	color: #FFFFFF;
+	border: thin solid #FFFFFF;
+	font-size: 23px;
+	padding: 2%;
+	text-align: center;
+}
+.separada {
+	background-color: #005883;
+	padding-top: 30px;
+}
+.texto_separado {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #FFFFFF;
+}
+.cuadro_txt_v2 {
+	color: #FFFFFF;
+	border: thin solid #E69555;
+	height: 70px;
+	text-align: center;
+	padding-top: 6px;
+	width: 200px;
+	margin-top: 50px;
+}
+.fondo_c {
+	background-image: url(../images/fondo2%20%5B350150%5D.png);
+}
+
+
+#img_mp {
+	margin-left: -120px;
+
+}
+
+.foto_separador {
+	padding-top: 42px;
+
+}
+#fondo_amarillo {
+	background-image: url(../images/atom%20consulting%20%5B382%5D.png);
+	background-repeat: no-repeat;
+	background-position: 7% 0%;
+	color: #3A3836;
+	text-align: center;
+	height: 40px;
+	padding-top: 10px;
+}
+.fondo_contenedor_a {
+	background-image: url(../images/franja%20amarilla%20%5B380%5D.png);
+	height: 100px;
+}
+#fondo_cafe {
+	background-image: url(../images/atom%20products%20%5B383%5D.png);
+	background-repeat: no-repeat;
+	background-position: 7% 0%;
+	color: #F9F5F2;
+	text-align: center;
+	height: 40px;
+	padding-top: 10px;
+}
+.fondo_contenedor_c {
+	background-image: url(../images/franja%20amrilla%20oscura%20%5B381%5D.png);
+	height: 90px;
+	background-repeat: no-repeat;
+}
+#texto_n {
+	color: #E69555;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 50px;
+}
+
+#formulario {
+	color: #FFFFFF;
+}
+.campo_texto {
+	background-color: hsla(26,100%,99%,0.30);
+}
+
+
+#texto_b {
+	color: #FFFFFF;
+	text-align: center;
+}
+.cuadro_txt_v3 {
+	color: #E69555;
+	border: thin solid #E69555;
+	text-align: center;
+	padding: 2%;
+	width: 380px;
+}
+.cuadro_txt_v4 {
+	color: #FFFFFF;
+	border: thin solid #FFFFFF;
+	text-align: center;
+	padding: 2%;
+	width: 380px;
+}
+.texto_separado_v2 {
+	margin-top: 20px;
+	margin-bottom: 60px;
+	color: #FFFFFF;
+	text-align: center;
+}
+.texto_n_v2 {
+	color: #E69555;
+	text-align: center;
+}
+.fondo_gv {
+	background-image: url(../images/fondo3%20fotos%20%5B350666%5D.png);
+}
+.cont_img {
+	width: 270px;
+	margin-bottom: 20px;
+}
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: transparent;
+	outline: 0;
+	border: thin solid #E69555;
+}
+#logo_1 {
+	margin-top: 100px;
+	margin-bottom: 40px;
+}
+#pie {
+	color: #e8d320;
+	text-align: center;
+}
+#txt_naranja {
+	color: #E69555;
+}
